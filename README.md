@@ -21,7 +21,7 @@
 ## Conclusions
 -> ### Insights 1: Univariate Analysis 
 
-Numerical  Univariate Analysis: 
+=> Numerical  Univariate Analysis: 
 
 - Loan amount is varying from 2000 to 14000 but the highest loan amount borrowed is between 4000 to 6000 and 8000 to 12000
 - Highest Amount funded by inveestors at the time ranges between 4000 to 12000
@@ -32,7 +32,7 @@ Numerical  Univariate Analysis:
 - Total payment wrt loan amount is less than 10000 
 
 
- Categorical Univariate Analysis:
+=> Categorical Univariate Analysis:
 
 - B Grade borrower's are more than other grades
 - A4 subgrade borrower's are more compare to other 
@@ -44,7 +44,7 @@ Numerical  Univariate Analysis:
 
 -> ### Insights 2: Bivariate Analysis:
 
-  Categorical variables wrt Charged Off:
+=>  Categorical variables wrt Charged Off:
 
 - People under Grade B and subgrade B5 are the most likely to default
 - Those who are leaving on Rent are mostly likely to default
@@ -52,7 +52,7 @@ Numerical  Univariate Analysis:
 - `Debt Consolidation` is the foremost purpose for defaulting the loan
 
 
-  Numerical Vs Charged Off:
+=>  Numerical Vs Charged Off:
 
 - Most people have annual income between 20k to 40k
 - 5k to 15k is the loan amount given to the majority people who are defaulting
